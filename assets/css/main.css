@@ -1181,3 +1181,8 @@ i.home-product-item__like-icon-fill {
     top: 3px;
     font-weight: 600;
 }
+
+.home-pagination {
+    margin: 48px 0 32px 0;
+
+}
