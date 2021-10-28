@@ -1265,4 +1265,13 @@ i.home-product-item__like-icon-fill {
     text-align: center;
     font-size: 1.4rem;
     color: #737373;
+    padding: 5px 0; 
+}
+
+.footer__text:first-child {
+    margin-top: 40px;
+}
+
+.footer__text:last-child {
+    margin-bottom: 36px;
 }
